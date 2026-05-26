@@ -1,0 +1,3 @@
+rankID	title	taxonomy	prefix	desc	subspecies
+8	anthracis	d__Bacteria;p__Bacillota;c__Bacilli;o__Bacillales;f__Bacillaceae_G;g__Bacillus_A;s__Bacilllus Mosaicus	"1427,0,0,2,0,7,0,0,0,0,0,0,0,0"		anthracis
+8	cereus	d__Bacteria;p__Bacillota;c__Bacilli;o__Bacillales;f__Bacillaceae_G;g__Bacillus_A;s__Bacilllus Mosaicus	"1427,0,0,2,0,7,1"		cereus
