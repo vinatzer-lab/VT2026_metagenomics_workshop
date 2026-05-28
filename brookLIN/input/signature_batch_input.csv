@@ -1,5 +1,5 @@
 filename,strain,interest,genus,species
-CV10_1.sig,CV10_1,"Plant pathogens",Xylella,fastidiosa
-CV10_2.sig,CV10_2,"Plant pathogens",Xylella,fastidiosa
-CV12_4.sig,CV12_4,Plant pathogens,Xylella,fastidiosa
-CV12_6.sig,CV12_6,Plant pathogens,Xylella,fastidiosa
+CV10_1.fasta.sig,CV10_1,"Plant pathogens",Xylella,fastidiosa
+CV10_2.fasta.sig,CV10_2,"Plant pathogens",Xylella,fastidiosa
+CV12_4.fasta.sig,CV12_4,Plant pathogens,Xylella,fastidiosa
+CV12_6.fasta.sig,CV12_6,Plant pathogens,Xylella,fastidiosa
